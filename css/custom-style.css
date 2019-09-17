@@ -1,6 +1,7 @@
 .jumbotron{
     background-image: url('Images/homepage1.png');
-    background-size: 1300px;
+    background-size: 1400px;
+    background-position-x: -10px;    
     background-repeat: no-repeat;
    }
 .test{
@@ -9,3 +10,17 @@
 .white{
  color: white;
 }
+.button {
+    background-color: white;
+    border: none;
+    color: purple;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: purple;
+    color: white;
+  }
