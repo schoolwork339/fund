@@ -1,0 +1,11 @@
+.jumbotron{
+    background-image: url('Images/homepage1.png');
+    background-size: 1300px;
+    background-repeat: no-repeat;
+   }
+.test{
+    width: 200px;
+}
+.white{
+ color: white;
+}
